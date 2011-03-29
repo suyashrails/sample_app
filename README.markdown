@@ -1,4 +1,6 @@
 == Welcome to Rails
+This is my third ror application, i am learning things. but i need to get deep in here. this is some interesting stuff after a lot of time. havin fun. zindagi mile na dobara!
+
 
 Rails is a web-application framework that includes everything needed to create
 database-backed web applications according to the Model-View-Control pattern.
